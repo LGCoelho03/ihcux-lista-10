@@ -13,3 +13,6 @@ Criamos seis telas, mostrando o seguinte:
 6) apresentação da fila já com a sua posição, quantidade de pessoas e tempo estimado
 
 Além disso, criamos duas abas de direcionamento para caso a pessoa queira alterar o perfil ou também cancelar reserva do dia.
+
+Imagem do arquivo
+![FilaZero](https://github.com/user-attachments/assets/196895fe-8f83-4bf1-89de-450b455054c2)
